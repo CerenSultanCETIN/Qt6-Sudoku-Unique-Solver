@@ -21,10 +21,11 @@ Proje, Qt'nun yerel derleme sistemi olan qmake (.pro) kullanılarak yapılandır
 Hücrelerin fare hareketlerine tepki vermesi için Qt'nun eventFilter mekanizması uygulanmıştır. Her bir QLineEdit hücresi merkezi bir MainWindow filtresine takılarak QEvent::Enter ve QEvent::Leave sinyalleri yakalanır.
 
 📁 Proje Yapısı
-generateNewGame(): Tahtayı sıfırlar, yeni çözüm üretir ve tek çözümlü hale getirerek kilitler.
 
-onCellChanged(): Kullanıcı girişlerini anlık denetler ve hata sayacını yönetir.
+***generateNewGame(): Tahtayı sıfırlar, yeni çözüm üretir ve tek çözümlü hale getirerek kilitler.
 
-highlightNumbers(const QString &number): Tablodaki görsel vurgulama ve stil yönetimini merkezi olarak yapar.
+***onCellChanged(): Kullanıcı girişlerini anlık denetler ve hata sayacını yönetir.
 
-isValid(): Satır, sütun ve 3x3 blok kurallarını denetleyen temel validasyon fonksiyonu.
+***highlightNumbers(const QString &number): Tablodaki görsel vurgulama ve stil yönetimini merkezi olarak yapar.
+
+***isValid(): Satır, sütun ve 3x3 blok kurallarını denetleyen temel validasyon fonksiyonu.
