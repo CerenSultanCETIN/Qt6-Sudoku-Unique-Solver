@@ -1,6 +1,6 @@
 Sudoku Master: Backtracking & Uniqueness Engine (Qt6/C++)
-<img width="604" height="637" alt="image" src="https://github.com/user-attachments/assets/1c02be1e-d388-4245-a9b2-931209df35b2" />
-<img width="601" height="653" alt="image" src="https://github.com/user-attachments/assets/ae8923b5-e461-41ea-b5b3-d7d3a59959b9" />
+<img width="604" height="637" alt="image" src="https://github.com/user-attachments/assets/1c02be1e-d388-4245-a9b2-931209df35b2" /><img width="612" height="641" alt="image" src="https://github.com/user-attachments/assets/f336d8f2-6200-4792-850b-4407f2eb20f6" />
+
 
 Sudoku Master: Advanced Puzzle Generation & UI Logic
 
